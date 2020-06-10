@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46860" started-at="2020-06-06T23:28:32 IST" finished-at="2020-06-06T23:29:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46860" started-at="2020-06-06T23:28:32 IST" finished-at="2020-06-06T23:29:19 IST">
+      <class name="com.org.tests.Headerboxtests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="setUp" is-config="true" duration-ms="11883" started-at="2020-06-06T23:28:32 IST" finished-at="2020-06-06T23:28:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateOpenMenu()[pri:1, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateOpenMenu" duration-ms="8052" started-at="2020-06-06T23:28:44 IST" finished-at="2020-06-06T23:28:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOpenMenu -->
+        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="4508" started-at="2020-06-06T23:28:55 IST" data-provider="searchboxdata" finished-at="2020-06-06T23:29:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[karnav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gupta]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchBoxTest -->
+        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="3494" started-at="2020-06-06T23:29:00 IST" data-provider="searchboxdata" finished-at="2020-06-06T23:29:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchBoxTest -->
+        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="7192" started-at="2020-06-06T23:29:03 IST" data-provider="searchboxdata" finished-at="2020-06-06T23:29:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ravi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[teja]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchBoxTest -->
+        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="4597" started-at="2020-06-06T23:29:10 IST" data-provider="searchboxdata" finished-at="2020-06-06T23:29:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[singh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchBoxTest -->
+        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="2128" started-at="2020-06-06T23:29:15 IST" data-provider="searchboxdata" finished-at="2020-06-06T23:29:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gabbar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchBoxTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="teardown" is-config="true" duration-ms="1775" started-at="2020-06-06T23:29:17 IST" finished-at="2020-06-06T23:29:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.org.tests.Headerboxtests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
