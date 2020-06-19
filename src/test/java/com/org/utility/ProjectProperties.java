@@ -10,7 +10,7 @@ public class ProjectProperties {
 	
 	static
 	{
-		File FileProp = new File("C:\\Users\\B. G. Drafting\\eclipse-workspace\\AmazonTesting\\config\\ProjectProperties.properties");
+		File FileProp = new File("D:\\MyEclipseProject\\AmazonTesting\\config\\ProjectProperties.properties");
 		FileInputStream fis;
 		try {
 			fis = new FileInputStream(FileProp);

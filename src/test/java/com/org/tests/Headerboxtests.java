@@ -113,7 +113,7 @@ public class Headerboxtests extends TestBase {
 	@DataProvider(name="searchboxdata")
 	public Object [][] searchboxdata() throws InvalidFormatException, IOException
 	{
-		Object[][] data= GetExcelData.getData("Data", "C:\\Users\\B. G. Drafting\\Desktop\\TestData.xlsx");
+		Object[][] data= GetExcelData.getData("Data", ProjectProperties.prop.getProperty("ExcelPath"));
 		return data;
 		
 	}

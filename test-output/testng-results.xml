@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="46860" started-at="2020-06-06T23:28:32 IST" finished-at="2020-06-06T23:29:19 IST">
+  <suite name="Default suite" duration-ms="89599" started-at="2020-06-11T22:11:01 IST" finished-at="2020-06-11T22:12:31 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="46860" started-at="2020-06-06T23:28:32 IST" finished-at="2020-06-06T23:29:19 IST">
+    <test name="Default test" duration-ms="89599" started-at="2020-06-11T22:11:01 IST" finished-at="2020-06-11T22:12:31 IST">
       <class name="com.org.tests.Headerboxtests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="setUp" is-config="true" duration-ms="11883" started-at="2020-06-06T23:28:32 IST" finished-at="2020-06-06T23:28:44 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="setUp" is-config="true" duration-ms="39720" started-at="2020-06-11T22:11:01 IST" finished-at="2020-06-11T22:11:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validateOpenMenu()[pri:1, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateOpenMenu" duration-ms="8052" started-at="2020-06-06T23:28:44 IST" finished-at="2020-06-06T23:28:52 IST">
+        <test-method status="PASS" signature="validateOpenMenu()[pri:1, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateOpenMenu" duration-ms="9641" started-at="2020-06-11T22:11:41 IST" finished-at="2020-06-11T22:11:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateOpenMenu -->
-        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="4508" started-at="2020-06-06T23:28:55 IST" data-provider="searchboxdata" finished-at="2020-06-06T23:29:00 IST">
+        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="7391" started-at="2020-06-11T22:11:57 IST" data-provider="searchboxdata" finished-at="2020-06-11T22:12:04 IST">
           <params>
             <param index="0">
               <value>
@@ -31,7 +31,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSearchBoxTest -->
-        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="3494" started-at="2020-06-06T23:29:00 IST" data-provider="searchboxdata" finished-at="2020-06-06T23:29:03 IST">
+        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="2962" started-at="2020-06-11T22:12:04 IST" data-provider="searchboxdata" finished-at="2020-06-11T22:12:07 IST">
           <params>
             <param index="0">
               <value>
@@ -47,7 +47,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSearchBoxTest -->
-        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="7192" started-at="2020-06-06T23:29:03 IST" data-provider="searchboxdata" finished-at="2020-06-06T23:29:10 IST">
+        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="4835" started-at="2020-06-11T22:12:07 IST" data-provider="searchboxdata" finished-at="2020-06-11T22:12:12 IST">
           <params>
             <param index="0">
               <value>
@@ -63,7 +63,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSearchBoxTest -->
-        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="4597" started-at="2020-06-06T23:29:10 IST" data-provider="searchboxdata" finished-at="2020-06-06T23:29:15 IST">
+        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="5138" started-at="2020-06-11T22:12:12 IST" data-provider="searchboxdata" finished-at="2020-06-11T22:12:17 IST">
           <params>
             <param index="0">
               <value>
@@ -79,7 +79,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSearchBoxTest -->
-        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="2128" started-at="2020-06-06T23:29:15 IST" data-provider="searchboxdata" finished-at="2020-06-06T23:29:17 IST">
+        <test-method status="PASS" signature="validateSearchBoxTest(java.lang.String, java.lang.String)[pri:2, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="validateSearchBoxTest" duration-ms="6372" started-at="2020-06-11T22:12:17 IST" data-provider="searchboxdata" finished-at="2020-06-11T22:12:24 IST">
           <params>
             <param index="0">
               <value>
@@ -95,7 +95,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSearchBoxTest -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="teardown" is-config="true" duration-ms="1775" started-at="2020-06-06T23:29:17 IST" finished-at="2020-06-06T23:29:19 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.org.tests.Headerboxtests@1b26f7b2]" name="teardown" is-config="true" duration-ms="6935" started-at="2020-06-11T22:12:24 IST" finished-at="2020-06-11T22:12:31 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

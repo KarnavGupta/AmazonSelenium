@@ -8,6 +8,7 @@
           <include name="teardown"/>
           <include name="setUp"/>
           <include name="validateOpenMenu"/>
+          <include name="validateSearchBoxTest"/>
         </methods>
       </class> <!-- com.org.tests.Headerboxtests -->
     </classes>

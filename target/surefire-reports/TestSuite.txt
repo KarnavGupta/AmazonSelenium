@@ -1,7 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 1, Errors: 0, Skipped: 7, Time elapsed: 4.012 s <<< FAILURE! - in TestSuite
-setUp(com.org.tests.Headerboxtests)  Time elapsed: 1.465 s  <<< FAILURE!
-java.lang.NullPointerException
-
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 154.874 s - in TestSuite

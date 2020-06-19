@@ -1,40 +1,40 @@
-23:28:44,436  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:72 - -----------------------------------------
-23:28:44,439  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:73 - StartingvalidateOpenMenuCase
-23:28:44,440  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:74 - -----------------------------------------
-23:28:52,449  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:85 - Test Menu Button clickable
-23:28:52,470  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:94 - validateOpenMenu Pass
-23:28:55,593  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - -----------------------------------------
-23:28:55,594  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - StartingvalidateSearchBoxTestCase
-23:28:55,594  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:30 - -----------------------------------------
-23:28:55,595  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:35 - Writing data in search box and clicking on search button
-23:29:00,089  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - -----------------------------------------
-23:29:00,092  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - ClosingvalidateSearchBoxTestCase
-23:29:00,095  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:62 - -----------------------------------------
-23:29:00,129  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - -----------------------------------------
-23:29:00,131  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - StartingvalidateSearchBoxTestCase
-23:29:00,131  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:30 - -----------------------------------------
-23:29:00,133  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:35 - Writing data in search box and clicking on search button
-23:29:03,609  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - -----------------------------------------
-23:29:03,609  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - ClosingvalidateSearchBoxTestCase
-23:29:03,609  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:62 - -----------------------------------------
-23:29:03,615  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - -----------------------------------------
-23:29:03,615  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - StartingvalidateSearchBoxTestCase
-23:29:03,616  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:30 - -----------------------------------------
-23:29:03,616  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:35 - Writing data in search box and clicking on search button
-23:29:10,803  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - -----------------------------------------
-23:29:10,803  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - ClosingvalidateSearchBoxTestCase
-23:29:10,804  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:62 - -----------------------------------------
-23:29:10,812  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - -----------------------------------------
-23:29:10,812  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - StartingvalidateSearchBoxTestCase
-23:29:10,812  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:30 - -----------------------------------------
-23:29:10,813  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:35 - Writing data in search box and clicking on search button
-23:29:15,407  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - -----------------------------------------
-23:29:15,407  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - ClosingvalidateSearchBoxTestCase
-23:29:15,407  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:62 - -----------------------------------------
-23:29:15,413  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - -----------------------------------------
-23:29:15,413  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - StartingvalidateSearchBoxTestCase
-23:29:15,414  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:30 - -----------------------------------------
-23:29:15,414  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:35 - Writing data in search box and clicking on search button
-23:29:17,537  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - -----------------------------------------
-23:29:17,537  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - ClosingvalidateSearchBoxTestCase
-23:29:17,537  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:62 - -----------------------------------------
+23:17:27,791  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:72 - -----------------------------------------
+23:17:27,821  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:73 - StartingvalidateOpenMenuCase
+23:17:27,821  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:74 - -----------------------------------------
+23:17:39,685  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:85 - Test Menu Button clickable
+23:17:39,700  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:94 - validateOpenMenu Pass
+23:17:55,103  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - -----------------------------------------
+23:17:55,103  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - StartingvalidateSearchBoxTestCase
+23:17:55,103  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:30 - -----------------------------------------
+23:17:55,103  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:35 - Writing data in search box and clicking on search button
+23:18:01,747  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - -----------------------------------------
+23:18:01,748  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - ClosingvalidateSearchBoxTestCase
+23:18:01,748  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:62 - -----------------------------------------
+23:18:01,757  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - -----------------------------------------
+23:18:01,758  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - StartingvalidateSearchBoxTestCase
+23:18:01,758  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:30 - -----------------------------------------
+23:18:01,759  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:35 - Writing data in search box and clicking on search button
+23:18:05,951  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - -----------------------------------------
+23:18:05,951  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - ClosingvalidateSearchBoxTestCase
+23:18:05,952  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:62 - -----------------------------------------
+23:18:05,953  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - -----------------------------------------
+23:18:05,953  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - StartingvalidateSearchBoxTestCase
+23:18:05,953  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:30 - -----------------------------------------
+23:18:05,953  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:35 - Writing data in search box and clicking on search button
+23:18:12,135  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - -----------------------------------------
+23:18:12,135  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - ClosingvalidateSearchBoxTestCase
+23:18:12,135  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:62 - -----------------------------------------
+23:18:12,137  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - -----------------------------------------
+23:18:12,137  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - StartingvalidateSearchBoxTestCase
+23:18:12,137  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:30 - -----------------------------------------
+23:18:12,137  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:35 - Writing data in search box and clicking on search button
+23:18:17,183  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - -----------------------------------------
+23:18:17,183  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - ClosingvalidateSearchBoxTestCase
+23:18:17,183  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:62 - -----------------------------------------
+23:18:17,187  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - -----------------------------------------
+23:18:17,187  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:28 - StartingvalidateSearchBoxTestCase
+23:18:17,187  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:30 - -----------------------------------------
+23:18:17,187  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:35 - Writing data in search box and clicking on search button
+23:18:31,419  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - -----------------------------------------
+23:18:31,419  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:60 - ClosingvalidateSearchBoxTestCase
+23:18:31,420  INFO com.org.tests.Headerboxtests<strong>{1}</strong>:62 - -----------------------------------------
